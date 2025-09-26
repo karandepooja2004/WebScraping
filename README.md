@@ -6,13 +6,9 @@
    
     Business Name
     Phone Number
-    
     Website
-    
     Address
-    
     Category
-    
     (Email, where available)
     
   The final data is saved into an Excel file, categorized and structured for ease of analysis.
@@ -34,13 +30,9 @@
   **Examples:**
   
     Jewelry & Accessories
-    
     Furniture & Décor
-    
     Coaching Institutes
-    
     Catering Services
-    
     Businesses in remote regions 
     
   For transparency, a note “Less than 10 records available” is added to the excel wherever applicable.
