@@ -54,10 +54,8 @@ The API does not provide email addresses. Email scraping from business websites 
 
 **Output Delivered**
 
-Excel File (e.g., Kansas_Business.xlsx)
-
-  Contains categorized business records.
+  **Excel File (e.g., Kansas_Business.xlsx)**
   
-  Each region can be saved on a separate sheet.
-  
-  Validation included for missing/limited categories. If any category have less than 10 records then a note “Less than 10 records available for this Category” is added to the excel. 
+    Contains categorized business records.
+    Each region can be saved on a separate sheet.
+    Validation included for missing/limited categories. If any category have less than 10 records then a note “Less than 10 records available for this Category” is added to the excel. 
