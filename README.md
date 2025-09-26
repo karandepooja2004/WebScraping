@@ -5,7 +5,6 @@
   The extracted data includes:
    
     Business Name
-   
     Phone Number
     
     Website
